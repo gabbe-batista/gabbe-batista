@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gabriel</h1>
 <h3 align="center">A full-stack developer in development.</h3>
 
-- 🔭 I’m currently working on **Neodent**
+- 🔭 I’m currently working at **Neodent**
 
 - 🌱 I’m currently learning **React, Node.js, Django, Flask, FastAPI, SQL e Python**
 
